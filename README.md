@@ -1,3 +1,7 @@
+# PKNU_Web_Failed_FinalProject
+This Final Project was assignment of Web Programming in PKNU. But failed to deploy.
+Used HTML, CSS, JavaScript, React, React-dom, React-routes-dom, axios, cheerio, Node.js Express, SQLite3.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
